@@ -13,4 +13,4 @@ const UsersName = users.map(user => {
     }
     return user.name;
 });
-console.log(UsersName); // ['Anacleto', 'Julia', 'Pedro', 'Anacleto']
+console.log(UsersName);

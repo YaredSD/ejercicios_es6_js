@@ -9,4 +9,4 @@ function destructuring({name, race}) {
     console.log('Hey, I am a ' + name + ' and my race is ' + race);
 };
 
-destructuring(animalFunction()); // Bengal Tiger, Tiger
+destructuring(animalFunction());

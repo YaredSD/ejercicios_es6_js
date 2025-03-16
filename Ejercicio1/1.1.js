@@ -6,8 +6,8 @@ const game = {title: 'The last us 2', gender: ['action', 'zombie', 'survival'], 
 
 const {title, gender, year, producer = 'Naughty Dog', duration= 10} = game;
 
-console.log(title); // The last us 2
-console.log(gender); // ['action', 'zombie', 'survival']
-console.log(year); // 2020
-console.log(producer); // Naughty Dog
-console.log(duration); // 10
+console.log(title);
+console.log(gender);
+console.log(year);
+console.log(producer);
+console.log(duration);

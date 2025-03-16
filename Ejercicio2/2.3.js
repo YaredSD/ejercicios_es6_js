@@ -4,4 +4,4 @@ const pointsList = [32, 54, 21, 64, 75, 43];
 const pointsLis2 = [54,87,99,65,32];
 
 const combinedPointLists = [...pointsList, ...pointsLis2];
-console.log(combinedPointLists); // [32, 54, 21, 64, 75, 43, 54, 87, 99, 65, 32]
+console.log(combinedPointLists);

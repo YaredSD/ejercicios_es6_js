@@ -4,4 +4,4 @@ const toy = {name: 'Bus laiyiar', date: '20-30-1995', color: 'multicolor'};
 const toyUpdate = {lights: 'rgb', power: ['Volar like a dragon', 'MoonWalk']}
 
 const combinedToys = {...toy, ...toyUpdate};
-console.log(combinedToys); // {name: 'Bus laiyiar', date: '20-30-1995', color: 'multicolor', lights: 'rgb', power: ['Volar like a dragon', 'MoonWalk']}
+console.log(combinedToys);

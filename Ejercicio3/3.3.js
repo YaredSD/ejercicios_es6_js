@@ -15,4 +15,3 @@ const citiesVisited = cities.map(city => {
     }
 });
 console.log(citiesVisited);
-// ['Tokyo (Visitado)', 'Madagascar', 'Amsterdam (Visitado)', 'Seul']

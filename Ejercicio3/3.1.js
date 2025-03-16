@@ -8,4 +8,4 @@ const users = [
 ];
 
 const names = users.map(person => person.name);
-console.log(names); // ['Abel', 'Julia', 'Pedro', 'Amanda
+console.log(names);

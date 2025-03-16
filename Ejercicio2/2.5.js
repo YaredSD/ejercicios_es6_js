@@ -3,5 +3,5 @@
 const colors = ['rojo', 'azul', 'amarillo', 'verde', 'naranja'];
 
 const NewColors = [...colors.slice(0, 2), ...colors.slice(3)];
-console.log(NewColors); // ['rojo', 'azul', 'verde', 'naranja']
-console.log(colors); // ['rojo', 'azul', 'amarillo', 'verde', 'naranja']
+console.log(NewColors);
+console.log(colors);

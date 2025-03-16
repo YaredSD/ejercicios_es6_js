@@ -2,4 +2,4 @@
 
 const toy = {name: 'Bus laiyiar', date: '20-30-1995', color: 'multicolor'};
 const ToyCopy = {...toy};
-console.log(ToyCopy); // {name: 'Bus laiyiar', date: '20-30-1995', color: 'multicolor'}
+console.log(ToyCopy);
